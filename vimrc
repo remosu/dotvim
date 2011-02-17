@@ -6,6 +6,8 @@ call pathogen#helptags()
 syntax on
 filetype plugin indent on
 
+au BufNewFile,BufRead *.cu set ft=c
+
 set backspace=indent,eol,start
 
 set tabstop=4
