@@ -16,4 +16,4 @@ set expandtab
 
 set incsearch
 
-        
+map <leader>v <Plug>TaskList        
