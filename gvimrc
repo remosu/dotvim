@@ -5,3 +5,5 @@ colorscheme silent
 
 set guioptions-=m
 set guioptions-=T
+
+winpos 200 100
