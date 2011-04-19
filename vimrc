@@ -26,3 +26,7 @@ set incsearch
 
 map <leader>v <Plug>TaskList        
 
+:set statusline=%t\ %y\ [%c,%l]
+
+set statusline+=%{fugitive#statusline()}
+set laststatus=2
