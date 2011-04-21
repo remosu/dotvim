@@ -22,3 +22,6 @@
 [submodule "bundle/tComment"]
 	path = bundle/tComment
 	url = https://github.com/vim-scripts/tComment.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
