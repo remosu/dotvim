@@ -14,7 +14,7 @@ set backspace=indent,eol,start
 
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 let g:SuperTabDefaultCompletionType = "context"
-set completeopt=longest,menuone
+"set completeopt=longest,menuone
 
 let mapleader=","
 

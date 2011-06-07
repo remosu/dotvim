@@ -2,7 +2,7 @@ set lines=40 columns=80
 
 set guifont=inconsolata\ 12
 
-colorscheme silent
+colorscheme mustang
 
 set guioptions-=m
 set guioptions-=T
