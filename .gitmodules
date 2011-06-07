@@ -34,3 +34,6 @@
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = git://github.com/juvenn/mustache.vim.git
+[submodule "bundle/taglist-plus"]
+	path = bundle/taglist-plus
+	url = https://github.com/int3/vim-taglist-plus.git
