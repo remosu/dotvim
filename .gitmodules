@@ -37,3 +37,6 @@
 [submodule "bundle/taglist-plus"]
 	path = bundle/taglist-plus
 	url = https://github.com/int3/vim-taglist-plus.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
