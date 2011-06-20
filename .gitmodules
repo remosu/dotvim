@@ -43,3 +43,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/pastie"]
+    path = bundle/pastie
+    url = https://github.com/tpope/vim-pastie.git
