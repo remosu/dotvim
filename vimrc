@@ -29,7 +29,15 @@ set incsearch
 
 map <leader>v <Plug>TaskList        
 
-:set statusline=%t\ %y\ [%c,%l]
+set statusline=%t\ %y\ [%c,%l]\ %{HasPaste()}
 
 set statusline+=%{fugitive#statusline()}
 set laststatus=2
+
+function! HasPaste()
+    if &paste
+        return 'PASTE MODE  '
+    else
+        return ''
+    endif
+endfunction
