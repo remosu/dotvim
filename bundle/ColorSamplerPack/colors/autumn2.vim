@@ -8,7 +8,7 @@ if exists("syntax_on")
         syntax reset
 endif
 
-let colors_name = "autumn"
+let colors_name = "autumn2"
 
 hi Normal       term=none      cterm=none ctermfg=black         ctermbg=White           gui=none guifg=Black            guibg=#f0f2f0
 hi Cursor       term=none      cterm=none ctermfg=white         ctermbg=darkgrey        gui=none guifg=black            guibg=red
