@@ -10,6 +10,8 @@ filetype plugin indent on
 
 au BufNewFile,BufRead *.cu set ft=c
 
+au BufRead,BufNewFile *.twig set filetype=htmljinja
+
 set backspace=indent,eol,start
 
 " autocmd FileType python set omnifunc=pythoncomplete#Complete
@@ -18,7 +20,7 @@ set backspace=indent,eol,start
 
 let mapleader=","
 
-set textwidth=79
+" set textwidth=79
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
@@ -42,3 +44,12 @@ function! HasPaste()
     endif
 endfunction
 
+set mouse=a
+set clipboard=unnamed
+
+set cursorline
+set cursorcolumn
+
+set number
+
+let g:Powerline_symbols = 'fancy'
