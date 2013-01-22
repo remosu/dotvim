@@ -53,3 +53,7 @@ set cursorcolumn
 set number
 
 let g:Powerline_symbols = 'fancy'
+
+autocmd Filetype javascript setlocal ts=2 sts=2 sw=2
+
+set wildignore+=node_modules
