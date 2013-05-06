@@ -1,6 +1,6 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/rene/Work/games/julagames/dobble_android'
-let g:netrw_dirhist_2='/Users/rene/Work/games/julagames'
-let g:netrw_dirhist_3='/Users/rene/.npm'
-let g:netrw_dirhist_4='/Users/rene/Work/remotrok/hamerkop'
+let g:netrw_dirhist_1='/Users/rene/Work/tmhes_assessments'
+let g:netrw_dirhist_2='/private/var/folders/b4/5157v6vd18dcqmt8_m9vz4bm0000gn/T/extdiff.5yRRkE/tmhes_assessments.78fe8bfd7e1e'
+let g:netrw_dirhist_3='/private/var/folders/b4/5157v6vd18dcqmt8_m9vz4bm0000gn/T/extdiff.9ViHTf/tmhes_assessments.78fe8bfd7e1e'
+let g:netrw_dirhist_4='/Users/rene/Work/tmhes_assessments'
